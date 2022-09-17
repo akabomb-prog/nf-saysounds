@@ -24,10 +24,12 @@ ded5.mp3
 dontspeakenglish.mp3
 doom_unf.mp3
 downsyndrome.mp3
+eb_welcome.mp3
 falco_yes.mp3
 gaben.mp3
 get.mp3
 goodlord_v1.mp3
+great88.mp3
 g_onsight.mp3
 g_scream.mp3
 g_slime.mp3
@@ -38,6 +40,7 @@ hecu_heisfamous.mp3
 hecu_internet.mp3
 hecu_relax.mp3
 hecu_swingthetango.mp3
+hecu_the.mp3
 hecu_wronge.mp3
 hev_activeairpollution.mp3
 hev_darkage.mp3
@@ -52,6 +55,7 @@ inposition01.mp3
 jeb_holygosh.mp3
 joel_mario.mp3
 liquid_brothers.mp3
+lofi_square.mp3
 lun_g.mp3
 m8.mp3
 mahogany_superbike.mp3
@@ -65,6 +69,7 @@ ma_johnmadden.mp3
 ma_questionmark.mp3
 me.mp3
 meemv2.mp3
+neco_dori.mp3
 nipple.mp3
 ofcourse.mp3
 oli_snake.mp3
@@ -74,8 +79,14 @@ otis_reputation.mp3
 prostate.mp3
 robotnik_no.mp3
 ro_heretodie.mp3
+samples_vocal_153.mp3
+samples_vocal_26.mp3
+samples_vocal_27.mp3
+samples_voc_house.mp3
+samples_voc_knobdo.mp3
 sci_dargh.mp3
 sci_e.mp3
+sci_gondals.mp3
 sci_oldandwrong.mp3
 sci_shutup.mp3
 sexellent_v1.mp3
@@ -85,6 +96,7 @@ speakenglish.mp3
 spy_seduceme01.mp3
 spy_seduceme02.mp3
 spy_seduceme03.mp3
+sslb_ugh.mp3
 success_v1.mp3
 super_pizza.mp3
 theking_dinner.mp3
@@ -93,7 +105,9 @@ thereproductivesystem.mp3
 true.mp3
 tubad.mp3
 vox_woop.mp3
+what88.mp3
 yes_bison.mp3
+yoshi_tongue.mp3
 you.mp3
 zik_awesome.mp3
 zik_yeah.mp3
