@@ -54,6 +54,7 @@ hev_youare8.mp3
 icore_fiberglass.mp3
 igottago.mp3
 ihavenoidea.mp3
+ils_sex.mp3
 inposition01.mp3
 jeb_holygosh.mp3
 joel_mario.mp3
@@ -77,6 +78,7 @@ neco_dori.mp3
 neco_prettyboy.mp3
 neco_sexyboy.mp3
 nipple.mp3
+ocelot_sonofabitch.mp3
 ofcourse.mp3
 oli_snake.mp3
 osn_liquid.mp3
@@ -99,6 +101,11 @@ sci_shutup.mp3
 sexellent_v1.mp3
 sey.mp3
 smosh_shutup.mp3
+snake_damnkid.mp3
+snake_disgusting.mp3
+snake_iwantmore.mp3
+snake_moron.mp3
+snake_tastesgreat.mp3
 speakenglish.mp3
 spy_seduceme01.mp3
 spy_seduceme02.mp3
@@ -106,6 +113,12 @@ spy_seduceme03.mp3
 sslb_ugh.mp3
 success_v1.mp3
 super_pizza.mp3
+thedude_fu.mp3
+thedude_fuck.mp3
+thedude_ifeellikeshit.mp3
+thedude_oops.mp3
+thedude_shit.mp3
+thedude_yourmother.mp3
 theking_dinner.mp3
 theking_hmm.mp3
 thereproductivesystem.mp3
